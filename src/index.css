@@ -1,0 +1,10 @@
+body {
+  --white: #fff;
+  --green: #1ebc73ff;
+  --coal: #1f1f1f;
+
+  background: var(--coal);
+  color: var(--white);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
